@@ -18,7 +18,7 @@ export const Navbar = () => {
                             <div className='flex items-center hidden lg:flex'>
                                 <h3 className='px-6'>Home</h3>
                                 <h3 className='px-6'>About</h3>
-                                <h3 className='px-6'>Blog</h3>
+                                <h3 className='px-6'>Features</h3>
                                 <h3 className='px-6'>Product</h3>
                                 <h3 className='px-6'>Contact Us</h3>
                             </div>
