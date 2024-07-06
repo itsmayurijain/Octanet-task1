@@ -20,7 +20,7 @@ export const Testimonial = () => {
                                     <p className='text-white font-medium text-sm'>Experience the perfect blend of technology and fashion with our smartwatches.</p>
                                 </div>
                                 <div className='text-center my-4'>
-                                    <h2 className='text-white font-semibold text-lg'> Charlotte Hale</h2>
+                                    <h2 className='text-primary font-semibold text-lg'> Charlotte Hale</h2>
                                 </div>
                                 <div className='text-center my-5'>
                                     <h2 className='text-white font-normal text-xs'>Creative Manager</h2>
@@ -34,7 +34,7 @@ export const Testimonial = () => {
                                     <p className='text-white font-medium text-sm'>Experience the perfect blend of technology and fashion with our smartwatches.</p>
                                 </div>
                                 <div className='text-center my-4'>
-                                    <h2 className='text-white font-semibold text-lg'> John Allenden</h2>
+                                    <h2 className='text-primary font-semibold text-lg'> John Allenden</h2>
                                 </div>
                                 <div className='text-center my-5'>
                                     <h2 className='text-white font-normal text-xs'>Creative Manager</h2>
@@ -48,7 +48,7 @@ export const Testimonial = () => {
                                     <p className='text-white font-medium text-sm'>Experience the perfect blend of technology and fashion with our smartwatches.</p>
                                 </div>
                                 <div className='text-center my-4'>
-                                    <h2 className='text-white font-semibold text-lg'> One Allenden</h2>
+                                    <h2 className='text-primary font-semibold text-lg'> One Allenden</h2>
                                 </div>
                                 <div className='text-center my-5'>
                                     <h2 className='text-white font-normal text-xs'>Creative Manager</h2>
