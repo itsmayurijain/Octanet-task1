@@ -3,6 +3,7 @@ import { Layout } from './Component/Layout'
 import { Product } from './Component/Product'
 import { Feature } from './Component/Feature'
 import { Testimonial } from './Component/Testimonial'
+import { Footer } from './Component/Footer'
 export const Home = () => {
   return (
     <>
@@ -10,6 +11,7 @@ export const Home = () => {
        <Product/>
        <Feature/>
        <Testimonial/>
+       <Footer/>
     </>
   )
 }

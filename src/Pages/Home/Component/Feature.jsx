@@ -13,15 +13,15 @@ export const Feature = () => {
                             <div className='ml-9 pt-12'>
                                 <div className='text-white py-4'>
                                     <h3 className='font-bold text-lg'>Notification Alert</h3>
-                                    <p className='text-sm font-medium'>The perfect blend of technology and smartwatches.</p>
+                                    <p className='text-sm font-normal'>The perfect blend of technology and smartwatches.</p>
                                 </div>
                                 <div className='py-6 text-white'>
                                     <h3 className='font-bold text-lg '>Fingerprint System</h3>
-                                    <p className='text-sm font-medium'>The perfect blend of technology and smartwatches.</p>
+                                    <p className='text-sm font-normal'>The perfect blend of technology and smartwatches.</p>
                                 </div>
                                 <div className='py-4 text-white'>
                                     <h3 className='font-bold text-lg '>GPS Control</h3>
-                                    <p className='text-sm font-medium'>The perfect blend of technology and smartwatches.</p>
+                                    <p className='text-sm font-normal'>The perfect blend of technology and smartwatches.</p>
                                 </div>
                             </div>
                             <div>
@@ -33,15 +33,15 @@ export const Feature = () => {
                             <div className='mr-9 pt-12'>
                                 <div className='text-white py-4'>
                                     <h3 className='font-bold text-lg'>Extern Sound Quality</h3>
-                                    <p className='text-sm font-medium'>The perfect blend of technology and smartwatches.</p>
+                                    <p className='text-sm font-normal'>The perfect blend of technology and smartwatches.</p>
                                 </div>
                                 <div className='py-6 text-white'>
                                     <h3 className='font-bold text-lg '>Install Any App</h3>
-                                    <p className='text-sm font-medium'>The perfect blend of technology and smartwatches.</p>
+                                    <p className='text-sm font-normal'>The perfect blend of technology and smartwatches.</p>
                                 </div>
                                 <div className='py-4 text-white'>
                                     <h3 className='font-bold text-lg '>Gaming Technology</h3>
-                                    <p className='text-sm font-medium'>The perfect blend of technology and smartwatches.</p>
+                                    <p className='text-sm font-normal'>The perfect blend of technology and smartwatches.</p>
                                 </div>
                             </div>
                             </div>
